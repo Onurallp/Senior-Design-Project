@@ -1,4 +1,4 @@
-<h1 align="center">IE - 402 SENIOR DESIGN PROJECT</h1>
+<h1 align="center">IE - 402 SENIOR DESIGN PROJECT (2022)</h1>
 <h3 align="center">Demand Forecast and Inventory Management of Company Sportive.</h3>
 
 <h5 align="left">With the demand forecasting methods currently used by Sportive Company, they cannot reach the results that work and are satisfied in their stores. The demand forecasting problem also negatively affects the inventory management of the company's stores.</h5>
